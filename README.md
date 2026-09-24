@@ -4,6 +4,10 @@
   <img src="https://i.ibb.co/PxvFx8T/image.png" alt="SoraDev banner" width="100%">
 </a>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Halo%2C+saya+SoraDev;Web+%26+Security+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
+
+![Profile views](https://komarev.com/ghpvc/?username=SoraDev-ID&color=blue)
+
 </div>
 
 ---
@@ -16,6 +20,19 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoraDev-ID&show_icons=true&theme=radical" alt="SoraDev-ID's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoraDev-ID&layout=compact&theme=radical" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoraDev-ID&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
