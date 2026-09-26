@@ -32,7 +32,7 @@
   <a href="https://stackoverflow.com/users/SoraDev-ID">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
   </a>
-  <a href="https://t.me/Soraaid">
+  <a href="https://t.me/SoraaaID">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://www.facebook.com/SoraDev">
